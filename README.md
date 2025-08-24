@@ -36,8 +36,6 @@ A **full-stack real-time chat application** deployed on **Kubernetes** via Minik
 ![Live Chat](https://github.com/Unicron-2028/k8s-project-full-stack-chat-app/blob/main/images/Screenshot%202025-08-25%20012211.png?raw=true)
 
 
-> Place all screenshots in an `images` folder in your repo root.
-
 ---
 
 ## Environment Variables
