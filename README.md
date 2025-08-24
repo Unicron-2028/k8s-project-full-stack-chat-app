@@ -30,7 +30,7 @@ A **full-stack real-time chat application** deployed on **Kubernetes** via Minik
 ![Login Page](https://github.com/Unicron-2028/k8s-project-full-stack-chat-app/blob/main/images/Screenshot%202025-08-25%20005623.png?raw=true)
 
 ### Initial Interface
-![Initial Interface](https://github.com/Unicron-2028/k8s-project-full-stack-chat-app/blob/main/images/interface.png?raw=true)
+![Initial Interface](https://github.com/Unicron-2028/k8s-project-full-stack-chat-app/blob/main/images/Screenshot%202025-08-25%20011910.png?raw=true)
 
 ### Live Chat Example
 ![Live Chat](https://github.com/Unicron-2028/k8s-project-full-stack-chat-app/blob/main/images/live-chat.png?raw=true)
