@@ -68,3 +68,8 @@ cd k8s-full-stack-chat-app
 
 ## Apply Kubernetes resources:
 kubectl apply -f .
+
+## Contributors
+
+- **Gaurav Saini** (Project Owner – added Kubernetes deployment, Ingress, and environment configuration)  
+- [Iem Afzal Hassan](https://github.com/iemafzalhassan) (Original Project Author – frontend and backend app)
